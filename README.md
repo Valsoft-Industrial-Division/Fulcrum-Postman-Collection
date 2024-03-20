@@ -6,7 +6,7 @@
 > You will need a valid Fulcrum login to use the collection.
 
 > [!TIP]
-> Please refer to [Postman's docuementation](https://quickstarts.postman.com/) before proceeding.
+> Please refer to [Postman's documentation](https://quickstarts.postman.com/) before proceeding.
 
 > [!TIP]
 > You can also use this Postman Workspace online [SMSTurbo Fulcrum Postman WorkSpace](https://www.postman.com/valstone/workspace/fulcrum-api-samples/collection/7239576-17b1b15f-afdd-4eb6-ad84-280932960cb2?action=share&source=copy-link&creator=7239576)
